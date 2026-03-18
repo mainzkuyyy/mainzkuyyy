@@ -7,7 +7,7 @@ _Creator of easyCLI | Former creator of MainzAPI_
 Im an 15-year-old programmer that creates a unique project, sometimes giving a free script for your needs.
 
 ## My Frequently Used Programming Languange
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MainzKuyyy&theme=radical&layout=compact&langs_count=5&hide=none" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mainzkuyyy&theme=radical&layout=compact&langs_count=5&hide=none" />
 
 ## bb
 
